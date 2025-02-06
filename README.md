@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Binh Phan's GitHub stats](https://github-readme-stats.vercel.app/api?username=binhphanbp&show_icons=true&theme=radical)
 
 <h1 align="center">Hi 👋, I'm Bình Phan</h1>
 <h3 align="center">A passionate frontend developer from Lam Dong, Vietnam</h3>
