@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&width=435&lines=Hello%2C+I'm+Binh+Phan!;Frontend+Developer!;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm Phan Đức Bình</h1>
+<h1 align="center">Hi 👋, I'm Bình Phan</h1>
 <h3 align="center">A passionate frontend developer from Lam Dong (Vietnam)</h3>
 
 - 📫 How to reach me **phanbinh150504@gmail.com**
