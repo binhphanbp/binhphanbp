@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60" />
   <h1>Hi there, I'm Bình Phan <img src="https://media.giphy.com/media/hvRJCLFzcuMiM/giphy.gif" width="30px"></h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Frontend+Developer+from+Vietnam;React+%26+Next.js+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Frontend+Developer+from+Vietnam;React+%26+Next.js+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,29 +12,38 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **E-commerce Projects & Portfolio building**.
-- 🌱 I’m currently learning **Backend technologies (Node.js, Express, MongoDB)** to become a Fullstack Developer.
-- 🎨 I love building **beautiful, responsive web apps** using modern UI libraries like Tailwind CSS.
-- ⚡ **Fun fact:** I focus on writing clean code and optimizing performance.
+- 🌱 I’m currently learning **Backend technologies (Node.js, Express, MongoDB)**.
+- 🎨 I love building **beautiful, responsive web apps** using modern UI libraries.
+- ⚡ **Fun fact:** I focus on writing clean code, testing with Jest, and optimizing performance.
 - 📫 How to reach me: **phanbinh150504@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| **Styling** | ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss) ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js) ![Express](https://img.shields.io/badge/-Express-000000?logo=express) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman) |
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
----
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
-### 🏆 GitHub Trophies
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=binhphanbp&theme=radical&margin-w=15&no-bg=true&no-frame=true" />
-</div>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ---
 
@@ -43,7 +52,7 @@
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **🛒 Mini Ecommerce** | A modern commerce platform with real-time sync and secure checkout. | `React` `Tailwind` `Firebase` | [🔗 Code](https://github.com/binhphanbp/your-ecommerce-project) • [🚀 Demo](https://your-demo-link.com) |
-| **✅ Task Planner** | Productivity tool with drag-and-drop task management features. | `Next.js` `Framer Motion` | [🔗 Code](https://github.com/binhphanbp/todo-planner) • [🚀 Demo](https://your-demo-link.com) |
+| **✅ Task Planner** | Productivity tool with drag-and-drop task management features. | `Next.js` `Framer Motion` `Dnd-kit` | [🔗 Code](https://github.com/binhphanbp/todo-planner) • [🚀 Demo](https://your-demo-link.com) |
 | **🌐 Portfolio** | My personal portfolio website designed with modern UI/UX. | `Next.js` `Vercel` | [🔗 Code](https://github.com/binhphanbp/portfolio) • [🚀 Demo](https://your-demo-link.com) |
 
 ---
@@ -51,13 +60,13 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=binhphanbp&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binhphanbp&layout=compact&theme=radical&hide_border=true&bg_color=00000000" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=binhphanbp&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binhphanbp&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </div>
 
 <div align="center">
   <br>
-  <img src="https://streak-stats.demolab.com?user=binhphanbp&theme=radical&hide_border=true&background=00000000" width="80%" />
+  <img src="https://streak-stats.demolab.com?user=binhphanbp&theme=tokyonight&hide_border=true" width="80%" />
 </div>
 
 ---
