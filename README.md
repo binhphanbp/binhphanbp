@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Backend technologies (Node.js, Express, MongoDB)**.
 - 🎨 I love building **beautiful, responsive web apps** using modern UI libraries.
 - ⚡ **Fun fact:** I focus on writing clean code, testing with Jest, and optimizing performance.
-- 📫 How to reach me: **phanbinh150504@gmail.com**
+- 📫 How to reach me: **phanbinhfedev150504@gmail.com**
 
 ---
 
@@ -67,7 +67,7 @@
   <a href="https://instagram.com/bianbp_1505" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:phanbinh150504@gmail.com">
+  <a href="mailto:phanbinhfedev150504@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
