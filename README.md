@@ -55,7 +55,7 @@
 
 ---
 
-### 🤝 Connect With Me
+### 🤝 Connect With Me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bianbp150504/" target="_blank">
