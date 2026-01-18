@@ -42,7 +42,7 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/binhphanbp">
   <img src="https://github-readme-stats.vercel.app/api?username=binhphanbp&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binhphanbp&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
@@ -51,7 +51,11 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=binhphanbp&theme=radical&hide_border=true" alt="streak graph" />
-</div>
+</div> -->
+
+![Binh Phan's GitHub stats](https://github-readme-stats.vercel.app/api?username=binhphanbp&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binhphanbp&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=binhphanbp&theme=radical&hide_border=false)
 
 ---
 
