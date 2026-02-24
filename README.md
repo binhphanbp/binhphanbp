@@ -29,14 +29,7 @@
 | **Tools & Testing** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=jest&logoColor=C21325) |
 
 ---
-
-### 📂 Highlighted Projects
-
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **🛒 Mini Ecommerce** | A modern commerce platform with real-time sync and secure checkout. | `React` `Tailwind` `Firebase` | [🔗 Code](https://github.com/binhphanbp/your-ecommerce-project) • [🚀 Demo](https://your-demo-link.com) |
-| **✅ Task Planner** | Productivity tool with drag-and-drop task management features. | `Next.js` `Framer Motion` `Dnd-kit` | [🔗 Code](https://github.com/binhphanbp/todo-planner) • [🚀 Demo](https://your-demo-link.com) |
-| **🌐 Portfolio** | My personal portfolio website designed with modern UI/UX. | `Next.js` `Vercel` | [🔗 Code](https://github.com/binhphanbp/portfolio) • [🚀 Demo](https://your-demo-link.com) |
+|
 
 ---
 
