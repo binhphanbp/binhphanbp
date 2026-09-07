@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="64" viewBox="0 0 1000 64" role="img" aria-labelledby="title"><title id="title"></title>
+<defs>
+ <linearGradient id="neon"><stop stop-color="#31d9ff"/><stop offset=".5" stop-color="#8185ff"/><stop offset="1" stop-color="#d779ff"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#31d9ff" stop-opacity=".17"/><stop offset="1" stop-color="#31d9ff" stop-opacity="0"/></radialGradient>
+ <radialGradient id="violet"><stop stop-color="#9860ff" stop-opacity=".21"/><stop offset="1" stop-color="#9860ff" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#8caaff" stroke-opacity=".06"/></pattern>
+ <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="3"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <clipPath id="edge"><rect width="1000" height="64" rx="18"/></clipPath>
+</defs>
+<style>
+svg{font-family:'Segoe UI',Arial,sans-serif}.spin{transform-box:fill-box;transform-origin:center;animation:spin 22s linear infinite}.reverse{animation-direction:reverse}.float{animation:float 5s ease-in-out infinite}.pulse{animation:pulse 3s ease-in-out infinite}.flow{stroke-dasharray:7 20;animation:flow 5s linear infinite}.trace{stroke-dasharray:100 1500;animation:trace 9s linear infinite}.cursor{animation:blink 1.2s steps(2,end) infinite}
+@keyframes spin{to{transform:rotate(360deg)}}@keyframes float{50%{transform:translateY(-9px)}}@keyframes pulse{50%{opacity:.4}}@keyframes flow{to{stroke-dashoffset:-108}}@keyframes trace{to{stroke-dashoffset:-1600}}@keyframes blink{50%{opacity:0}}
+@media(prefers-reduced-motion:reduce){.spin,.float,.pulse,.flow,.trace,.cursor{animation:none}}
+</style>
+<g clip-path="url(#edge)"><path d="M0 32H330L370 12H630L670 32H1000" fill="none" stroke="#25344c" stroke-width="4"/><path d="M0 32H330L370 12H630L670 32H1000" fill="none" stroke="url(#neon)" class="trace" stroke-width="3" filter="url(#glow)"/><rect x="460" y="23" width="80" height="25" rx="13" fill="#0e182c" stroke="#344264" /><circle cx="479" cy="35" r="4" fill="#3edcfa" class="pulse"/><circle cx="500" cy="35" r="4" fill="#9975ff" class="pulse" style="animation-delay:1s"/><circle cx="521" cy="35" r="4" fill="#ed83c7" class="pulse" style="animation-delay:2s"/></g>
+</svg>

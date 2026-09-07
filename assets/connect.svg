@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="180" viewBox="0 0 1000 180" role="img" aria-labelledby="title"><title id="title">Let’s build something worth using. Connect with Bình Phan.</title>
+<defs>
+ <linearGradient id="neon"><stop stop-color="#31d9ff"/><stop offset=".5" stop-color="#8185ff"/><stop offset="1" stop-color="#d779ff"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#31d9ff" stop-opacity=".17"/><stop offset="1" stop-color="#31d9ff" stop-opacity="0"/></radialGradient>
+ <radialGradient id="violet"><stop stop-color="#9860ff" stop-opacity=".21"/><stop offset="1" stop-color="#9860ff" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#8caaff" stroke-opacity=".06"/></pattern>
+ <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="3"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <clipPath id="edge"><rect width="1000" height="180" rx="18"/></clipPath>
+</defs>
+<style>
+svg{font-family:'Segoe UI',Arial,sans-serif}.spin{transform-box:fill-box;transform-origin:center;animation:spin 22s linear infinite}.reverse{animation-direction:reverse}.float{animation:float 5s ease-in-out infinite}.pulse{animation:pulse 3s ease-in-out infinite}.flow{stroke-dasharray:7 20;animation:flow 5s linear infinite}.trace{stroke-dasharray:100 1500;animation:trace 9s linear infinite}.cursor{animation:blink 1.2s steps(2,end) infinite}
+@keyframes spin{to{transform:rotate(360deg)}}@keyframes float{50%{transform:translateY(-9px)}}@keyframes pulse{50%{opacity:.4}}@keyframes flow{to{stroke-dashoffset:-108}}@keyframes trace{to{stroke-dashoffset:-1600}}@keyframes blink{50%{opacity:0}}
+@media(prefers-reduced-motion:reduce){.spin,.float,.pulse,.flow,.trace,.cursor{animation:none}}
+</style>
+<g clip-path="url(#edge)"><rect x="0" y="0" width="1000" height="180" rx="18" fill="#080e20" stroke="none" /><rect x="0" y="0" width="1000" height="180" rx="0" fill="url(#grid)" stroke="none" /><ellipse cx="200" cy="62.99999999999999" rx="500" ry="162" fill="url(#halo)"/><ellipse cx="800" cy="108" rx="450" ry="180" fill="url(#violet)"/><g transform="translate(135 90)"><circle r="56" fill="none" stroke="#293b5e"/><circle r="42" fill="none" stroke="#586998" stroke-dasharray="12 18" class="spin"/><circle cx="-49" cy="0" r="8" fill="#42dbff" filter="url(#glow)" class="pulse"/><circle cx="49" cy="0" r="8" fill="#b687ff" filter="url(#glow)" class="pulse"/><path d="M-20 1H20M0 -19V21" fill="none" stroke="#90adff" stroke-width="3"/></g><text x="260" y="58" font-size="13" fill="#59ddff" font-family="Consolas,Menlo,monospace" letter-spacing="3">LET’S CONNECT</text><text x="260" y="102" font-size="34" fill="#eef4ff" font-weight="700">Build something worth using.</text><text x="260" y="137" font-size="18" fill="#9dafce" >Web products · Developer tools · Useful ideas</text></g>
+<rect x="0.7" y="0.7" width="998.6" height="178.6" rx="18" fill="none" stroke="#293555" /><path d="M1 66V18Q1 1 18 1H320M690 179H982Q999 179 999 162V115" fill="none" stroke="url(#neon)" stroke-width="1.5"/></svg>

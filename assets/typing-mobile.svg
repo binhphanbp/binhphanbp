@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="66" viewBox="0 0 600 66" role="img" aria-labelledby="title"><title id="title">Designing interfaces, engineering APIs, building web products</title>
+<defs>
+ <linearGradient id="neon"><stop stop-color="#31d9ff"/><stop offset=".5" stop-color="#8185ff"/><stop offset="1" stop-color="#d779ff"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#31d9ff" stop-opacity=".17"/><stop offset="1" stop-color="#31d9ff" stop-opacity="0"/></radialGradient>
+ <radialGradient id="violet"><stop stop-color="#9860ff" stop-opacity=".21"/><stop offset="1" stop-color="#9860ff" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#8caaff" stroke-opacity=".06"/></pattern>
+ <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="3"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <clipPath id="edge"><rect width="600" height="66" rx="18"/></clipPath>
+</defs>
+<style>
+svg{font-family:'Segoe UI',Arial,sans-serif}.spin{transform-box:fill-box;transform-origin:center;animation:spin 22s linear infinite}.reverse{animation-direction:reverse}.float{animation:float 5s ease-in-out infinite}.pulse{animation:pulse 3s ease-in-out infinite}.flow{stroke-dasharray:7 20;animation:flow 5s linear infinite}.trace{stroke-dasharray:100 1500;animation:trace 9s linear infinite}.cursor{animation:blink 1.2s steps(2,end) infinite}
+@keyframes spin{to{transform:rotate(360deg)}}@keyframes float{50%{transform:translateY(-9px)}}@keyframes pulse{50%{opacity:.4}}@keyframes flow{to{stroke-dashoffset:-108}}@keyframes trace{to{stroke-dashoffset:-1600}}@keyframes blink{50%{opacity:0}}
+@media(prefers-reduced-motion:reduce){.spin,.float,.pulse,.flow,.trace,.cursor{animation:none}}
+</style>
+<g clip-path="url(#edge)"><style>
+.phrase{animation:phrase 12s infinite}.p2{opacity:0;animation-delay:4s}.p3{opacity:0;animation-delay:8s}.type{animation:typing 4s steps(38,end) infinite}
+@keyframes phrase{0%,30%{opacity:1}33%,100%{opacity:0}}@keyframes typing{0%{clip-path:inset(0 100% 0 0)}65%,90%{clip-path:inset(0 0 0 0)}100%{clip-path:inset(0 100% 0 0)}}
+@media(prefers-color-scheme:light){.p1 text{fill:#067c99}.p2 text{fill:#6941c6}.p3 text{fill:#087e5b}}
+@media(prefers-reduced-motion:reduce){.phrase,.type{animation:none}.p2,.p3{display:none}}
+</style><g class="phrase p1"><g class="type"><text x="300" y="41" font-size="26" fill="#50ddff" font-family="Consolas,Menlo,monospace" text-anchor="middle">Thoughtful interfaces.</text></g></g><g class="phrase p2"><g class="type"><text x="300" y="41" font-size="26" fill="#b496ff" font-family="Consolas,Menlo,monospace" text-anchor="middle">Connected APIs &amp; data.</text></g></g><g class="phrase p3"><g class="type"><text x="300" y="41" font-size="26" fill="#68edc0" font-family="Consolas,Menlo,monospace" text-anchor="middle">Useful web products.</text></g></g></g>
+</svg>
