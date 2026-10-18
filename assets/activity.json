@@ -1,43 +1,8 @@
 {
   "username": "binhphanbp",
-  "updatedAt": "2026-10-17T05:36:04.857Z",
+  "updatedAt": "2026-10-18T05:53:43.862Z",
   "publicRepos": 17,
   "days": [
-    {
-      "date": "2025-10-12",
-      "count": 1,
-      "level": 1
-    },
-    {
-      "date": "2025-10-13",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-14",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-15",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-16",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-17",
-      "count": 2,
-      "level": 1
-    },
-    {
-      "date": "2025-10-18",
-      "count": 1,
-      "level": 1
-    },
     {
       "date": "2025-10-19",
       "count": 1,
@@ -1855,6 +1820,11 @@
     },
     {
       "date": "2026-10-17",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2026-10-18",
       "count": 0,
       "level": 0
     }
